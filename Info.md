@@ -16,7 +16,7 @@ For the below questions, score them on a 4 point scale where:
 
 1. How confident are you with basic computer operations? (Typing, navigating files, web use, etc) <SCORE>
 2. How confident are you with basic computer science in ANY language? (Constructing algorithms, solving problems using code, etc) <SCORE>
-3. How confident are you already with basic Python syntax? (contructing for loops or classes for instance) <SCORE>
+3. How confident are you already with basic Python syntax? (contructing for loops or logic branches for instance) <SCORE>
 4. What are your goals, or what would you like to accomplish by the end of this coures? <ANSWER>
 
 
@@ -24,4 +24,4 @@ For the below questions, score them on a 4 point scale where:
 1. What is your major? <MAJOR>
 2. Where are you from? <CITY/STATE>
 3. What extracurriculars (athletics, clubs, music groups, etc) do you participate in? <GROUPS>
-4. I can't promise anything, but are there any event(s) you are participating in this semester that you'd appreciate my support in attending? When are they? <ANSWER>
+4. I can't promise anything, but are there any event(s) you are participating in this semester that you'd appreciate my support in attending (either in person or remotely)? When are they? <ANSWER>
