@@ -25,3 +25,7 @@ For the below questions, score them on a 4 point scale where:
 2. Where are you from? <CITY/STATE>
 3. What extracurriculars (athletics, clubs, music groups, etc) do you participate in? <GROUPS>
 4. I can't promise anything, but are there any event(s) you are participating in this semester that you'd appreciate my support in attending (either in person or remotely)? When are they? <ANSWER>
+
+
+## Proof of working Python:
+1. What intersection does Karel end up at when you run the provided `test_karel.py` program? <ANSWER>
