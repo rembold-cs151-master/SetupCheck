@@ -1,4 +1,4 @@
-# Introductory Lab 1
+# Practice Assignment
 ---
 
 If you are reading this you have presumably followed the guide to get set up on GitHub and accept a GitHub Classroom assignment. Congrats! If you haven't also followed the guide to install Python and VSCode, go ahead and do that as well before continuing here.
@@ -11,6 +11,3 @@ Finally, you need to upload the file back to GitHub! If you haven't yet read the
 
 _Note: You **CAN** edit this `Info.txt` directly online within Github itself. I would recommend that you do **NOT** do this however, as it will defeat the purpose of making sure you are comfortable both downloading and uploading content to Github. Moreover, trying to do so with actual code later in the semester is likely a recipe for disaster._
 
-You are going to get really familiar with this process over the course of the semester. It will be both how template code is distributed to you for projects and how you will submit basically everything for scoring: lab exercises, problem sets, and projects.
-
-When you are done, if you haven't already and are interested, you can look at the guide for installing Anaconda (Python) and VSCode on your own computer. Technically it is not required and you could use the computer lab computers, but many students find it far more convenient and easier having everything local on their own system. And it really isn't difficult to get up and running.
